@@ -1,0 +1,4 @@
+﻿  homework1.cpp
+c:\users\nakamizu\documents\visual studio 2017\projects\homework1-1\homework1-1\homework1.cpp(18): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+  homework1-1.vcxproj -> C:\Users\nakamizu\Documents\Visual Studio 2017\Projects\homework1-1\Debug\homework1-1.exe
+  homework1-1.vcxproj -> C:\Users\nakamizu\Documents\Visual Studio 2017\Projects\homework1-1\Debug\homework1-1.pdb (Partial PDB)
